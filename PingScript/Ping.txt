@@ -1,0 +1,5 @@
+Destination = 192.168.1.1
+
+		Payload = Hallo ik ben een ping
+
+		Amount = 10000
